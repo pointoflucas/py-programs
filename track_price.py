@@ -1,5 +1,5 @@
 import sys
-sys.path.append("C:/Users/Mustafa/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0/LocalCache/local-packages/Python38/site-packages")
+sys.path.append("C:/Users/Mustafa/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0/LocalCache/local-packages/Python38/site-packages") #if your sys-library is not in the file including the tarck_price coding file
 import requests
 from bs4 import BeautifulSoup
 
